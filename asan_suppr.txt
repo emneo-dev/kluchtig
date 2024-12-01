@@ -1,0 +1,4 @@
+leak:libdecor-gtk.so
+leak:g_thread_proxy
+leak:_glfwInitEGL
+leak:_glfwCreateWindowWayland
